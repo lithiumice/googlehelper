@@ -1,0 +1,2 @@
+# googlehelper
+crack-version
